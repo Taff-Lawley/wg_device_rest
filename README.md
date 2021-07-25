@@ -1,7 +1,7 @@
 # Test Assignment REST-Service - Devices
 ## _Adrian Lawley_
 
- ## Getting started
+ ## TODOs: json error handling
  
  ### Installation
  
