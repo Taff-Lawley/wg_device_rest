@@ -79,3 +79,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"device_id": 1337,"device_
 ```sh
 curl -X DELETE -H "Content-Type: application/json" http://127.0.0.1:8888/device/delete/27
 ```
+#####Testing
+```sh
+php ./vendor/bin/phpunit
+```
